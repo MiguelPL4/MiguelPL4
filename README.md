@@ -1,4 +1,6 @@
-[![followers](https://badgen.net/#peertube/video.hardlimit.com/followers/miguel/miguel_p.l?icon=peertube)](https://video.hardlimit.com/c/miguel_p.l/videos) [![License](https://badgen.net/static/license/CC0/white)](https://creativecommons.org/publicdomain/zero/1.0/)
+<p <img src="https://badgen.net/#peertube/video.hardlimit.com/followers/miguel/miguel_p.l?icon=peertube" alt="https://video.hardlimit.com/c/miguel_p.l/videos" /></p> 
+[![License](https://badgen.net/static/license/CC0/white)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{MiguelPL4}/count.svg" alt="Miguel P.L :: Visitor's Count" /></p>
 
