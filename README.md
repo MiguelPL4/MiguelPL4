@@ -21,5 +21,5 @@
 
 [![GitLab](https://img.shields.io/badge/GitLab_(@MiguelPL4)-orange?logo=gitlab&logoColor=white)](https://gitlab.com/MiguelPL4)
 
-# License:
+# License
 [![license](https://badgen.net/static/license/CC0/white)](https://creativecommons.org/publicdomain/zero/1.0/)
