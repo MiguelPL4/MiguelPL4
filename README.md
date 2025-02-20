@@ -8,7 +8,6 @@
 **Github:**
 
 [![Github](https://img.shields.io/badge/GitHub_(MiguelPL4)-000000?logo=github&logoColor=white)](https://github.com/MiguelPL4)
-[![views](https://komarev.com/ghpvc/?username=MiguelPL4&color=000000)](https://github.com/MiguelPL4/) 
 <a href="https://github.com/MiguelPL4/">
    <img width="100%" alt="Miguel P.L´s github stats" src="https://github-readme-stats.vercel.app/api?username=MiguelPL4&show_icons=true&border_color=ffffff&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&" />
 </a>
