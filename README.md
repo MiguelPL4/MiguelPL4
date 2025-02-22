@@ -3,7 +3,7 @@
 # Social networks
 [![PeerTube](https://img.shields.io/badge/PeerTube_(@miguel__p.l@video.hardlimit.com)-ff8000?logo=peertube&logoColor=white)](https://video.hardlimit.com/a/miguel/video-channels)
 [![Mastodon](https://img.shields.io/badge/Mastodon_(@Miguel__PL@mastodon.social)-572364?logo=mastodon&logoColor=white)](https://mastodon.social/@Miguel_PL)
-[![YouTube](https://img.shields.io/badge/YouTube_(@Miguel__P.L)-FF0000?logo=youtube&logoColor=white)](https://m.youtube.com/channel/UCsP46sRrDp6G0pu77kfC99g) 
+[![YouTube](https://img.shields.io/badge/YouTube_(@Miguel__P.L)-FF0000?logo=youtube&logoColor=white)](https://youtube.com/channel/UCsP46sRrDp6G0pu77kfC99g) 
 # Git 
 **Github:**
 
